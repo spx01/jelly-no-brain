@@ -1,0 +1,6 @@
+.vscode/
+.xmake/
+build/
+compile_commands.json
+web/jnb.*
+deploy.sh

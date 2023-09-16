@@ -1,0 +1,7 @@
+- Add input and make UI functional
+- Work on webpage
+- Add delta-state for animations
+- Make solver
+- Make level editor
+- Refactor atlas, 5x5 cell (original style) textures
+- Polish UI
